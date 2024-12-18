@@ -1,0 +1,6 @@
+patterns: ['*.json']
+
+format: "ndjson"
+
+plugins:
+    - "file:./local-plugin.mjs"
